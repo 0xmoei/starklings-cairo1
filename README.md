@@ -63,7 +63,7 @@ Here's how starklings works,
 1. To start starklings run `cargo run -r --bin starklings watch`
 2. It will automatically start with the first exercise. Don't get confused by
 error message popping up as soon as you run starklings! This is part of the
-exercise that you're supposed to solve, so open the exercise file in an editor
+exercise that you are supposed to solve, so open the exercise file in an editor
 and start your detective work!
 3. If you're stuck on an exercise, there is a helpful hint you can view by
 typing `hint` (in watch mode), or running `cargo run -r --bin starklings hint
