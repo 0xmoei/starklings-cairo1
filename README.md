@@ -53,7 +53,7 @@ starklings - An interactive tutorial to get started with Cairo and Starknet
                                      __/ |
                                     |___/
 
-Thanks for installing starklings repo!
+Thanks for installing starklings repository!
 
 Is this your first time? Don't worry, starklings is made for beginners! We are
 going to teach you a bunch of stuff about StarkNet and Cairo.
