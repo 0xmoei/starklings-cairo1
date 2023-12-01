@@ -61,7 +61,7 @@ going to teach you a bunch of stuff about StarkNet and Cairo.
 Here's how starklings works,
 
 1. To start starklings run `cargo run -r --bin starklings watch`
-2. It'll automatically start with the first exercise. Don't get confused by
+2. It will automatically start with the first exercise. Don't get confused by
 error message popping up as soon as you run starklings! This is part of the
 exercise that you're supposed to solve, so open the exercise file in an editor
 and start your detective work!
